@@ -1,0 +1,16 @@
+{
+    "countries": [
+        {
+            "country": "DE",
+            "regions": ["DE-HH", "DE-RP", "DE-HB", "DE-SL", "DE-BE", "DE-HE", "DE-BY", "DE-BW", "DE-SH", "DE-NW", "DE-NI", "DE-BB", "DE-MV", "DE-TH", "DE-SN", "DE-ST"]
+        },
+        {
+            "country": "AT",
+            "regions": ["AT-9","AT-8","AT-7","AT-5","AT-6","AT-4","AT-2","AT-3","AT-1"]
+        },
+        {
+            "country": "PL",
+            "regions": ["PL-MA","PL-MZ","PL-PM","PL-DS","PL-PD","PL-LD","PL-LU","PL-ZP","PL-SL","PL-WP","PL-PK","PL-KP","PL-LB","PL-OP","PL-WN","PL-SK"]
+        }
+]
+}

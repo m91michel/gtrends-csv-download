@@ -1,0 +1,23 @@
+{
+  "name": "google-trend-csv-downloader",
+  "version": "1.0.0",
+  "description": "Download Google Trend Statistic as CSV File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m91michel/G-Trend-CSV-Download.git"
+  },
+  "keywords": [
+    "Google",
+    "Trends"
+  ],
+  "author": "Mathias Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m91michel/G-Trend-CSV-Download/issues"
+  },
+  "homepage": "https://github.com/m91michel/G-Trend-CSV-Download#readme"
+}
